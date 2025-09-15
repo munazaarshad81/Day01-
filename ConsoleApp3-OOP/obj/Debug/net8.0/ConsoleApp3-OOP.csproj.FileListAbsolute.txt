@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\ConsoleApp3-OOP\ConsoleApp3-OOP\bin\Debug\net8.0\ConsoleApp3-OOP.exe
+C:\Users\Dell\source\repos\ConsoleApp3-OOP\ConsoleApp3-OOP\bin\Debug\net8.0\ConsoleApp3-OOP.deps.json
+C:\Users\Dell\source\repos\ConsoleApp3-OOP\ConsoleApp3-OOP\bin\Debug\net8.0\ConsoleApp3-OOP.runtimeconfig.json
+C:\Users\Dell\source\repos\ConsoleApp3-OOP\ConsoleApp3-OOP\bin\Debug\net8.0\ConsoleApp3-OOP.dll
+C:\Users\Dell\source\repos\ConsoleApp3-OOP\ConsoleApp3-OOP\bin\Debug\net8.0\ConsoleApp3-OOP.pdb
+C:\Users\Dell\source\repos\ConsoleApp3-OOP\ConsoleApp3-OOP\obj\Debug\net8.0\ConsoleApp3-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ConsoleApp3-OOP\ConsoleApp3-OOP\obj\Debug\net8.0\ConsoleApp3-OOP.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp3-OOP\ConsoleApp3-OOP\obj\Debug\net8.0\ConsoleApp3-OOP.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ConsoleApp3-OOP\ConsoleApp3-OOP\obj\Debug\net8.0\ConsoleApp3-OOP.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp3-OOP\ConsoleApp3-OOP\obj\Debug\net8.0\ConsoleApp3-OOP.dll
+C:\Users\Dell\source\repos\ConsoleApp3-OOP\ConsoleApp3-OOP\obj\Debug\net8.0\refint\ConsoleApp3-OOP.dll
+C:\Users\Dell\source\repos\ConsoleApp3-OOP\ConsoleApp3-OOP\obj\Debug\net8.0\ConsoleApp3-OOP.pdb
+C:\Users\Dell\source\repos\ConsoleApp3-OOP\ConsoleApp3-OOP\obj\Debug\net8.0\ConsoleApp3-OOP.genruntimeconfig.cache
+C:\Users\Dell\source\repos\ConsoleApp3-OOP\ConsoleApp3-OOP\obj\Debug\net8.0\ref\ConsoleApp3-OOP.dll

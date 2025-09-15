@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Fibonacci Exercise.exe
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Fibonacci Exercise.deps.json
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Fibonacci Exercise.runtimeconfig.json
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Fibonacci Exercise.dll
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Fibonacci Exercise.pdb
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Fibonacci Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Fibonacci Exercise.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Fibonacci Exercise.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Fibonacci Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Fibonacci Exercise.dll
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\refint\Fibonacci Exercise.dll
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Fibonacci Exercise.pdb
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Fibonacci Exercise.genruntimeconfig.cache
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ref\Fibonacci Exercise.dll

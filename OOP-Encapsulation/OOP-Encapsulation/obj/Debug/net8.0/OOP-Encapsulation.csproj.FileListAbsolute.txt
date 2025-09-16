@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\OOP-Encapsulation\OOP-Encapsulation\bin\Debug\net8.0\OOP-Encapsulation.exe
+C:\Users\Dell\source\repos\OOP-Encapsulation\OOP-Encapsulation\bin\Debug\net8.0\OOP-Encapsulation.deps.json
+C:\Users\Dell\source\repos\OOP-Encapsulation\OOP-Encapsulation\bin\Debug\net8.0\OOP-Encapsulation.runtimeconfig.json
+C:\Users\Dell\source\repos\OOP-Encapsulation\OOP-Encapsulation\bin\Debug\net8.0\OOP-Encapsulation.dll
+C:\Users\Dell\source\repos\OOP-Encapsulation\OOP-Encapsulation\bin\Debug\net8.0\OOP-Encapsulation.pdb
+C:\Users\Dell\source\repos\OOP-Encapsulation\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\OOP-Encapsulation\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\OOP-Encapsulation\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.AssemblyInfo.cs
+C:\Users\Dell\source\repos\OOP-Encapsulation\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\OOP-Encapsulation\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.dll
+C:\Users\Dell\source\repos\OOP-Encapsulation\OOP-Encapsulation\obj\Debug\net8.0\refint\OOP-Encapsulation.dll
+C:\Users\Dell\source\repos\OOP-Encapsulation\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.pdb
+C:\Users\Dell\source\repos\OOP-Encapsulation\OOP-Encapsulation\obj\Debug\net8.0\OOP-Encapsulation.genruntimeconfig.cache
+C:\Users\Dell\source\repos\OOP-Encapsulation\OOP-Encapsulation\obj\Debug\net8.0\ref\OOP-Encapsulation.dll

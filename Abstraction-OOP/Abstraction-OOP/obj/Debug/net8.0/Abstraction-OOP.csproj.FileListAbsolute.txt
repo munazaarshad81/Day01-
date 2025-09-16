@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Abstraction-OOP\Abstraction-OOP\bin\Debug\net8.0\Abstraction-OOP.exe
+C:\Users\Dell\source\repos\Abstraction-OOP\Abstraction-OOP\bin\Debug\net8.0\Abstraction-OOP.deps.json
+C:\Users\Dell\source\repos\Abstraction-OOP\Abstraction-OOP\bin\Debug\net8.0\Abstraction-OOP.runtimeconfig.json
+C:\Users\Dell\source\repos\Abstraction-OOP\Abstraction-OOP\bin\Debug\net8.0\Abstraction-OOP.dll
+C:\Users\Dell\source\repos\Abstraction-OOP\Abstraction-OOP\bin\Debug\net8.0\Abstraction-OOP.pdb
+C:\Users\Dell\source\repos\Abstraction-OOP\Abstraction-OOP\obj\Debug\net8.0\Abstraction-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Abstraction-OOP\Abstraction-OOP\obj\Debug\net8.0\Abstraction-OOP.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Abstraction-OOP\Abstraction-OOP\obj\Debug\net8.0\Abstraction-OOP.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Abstraction-OOP\Abstraction-OOP\obj\Debug\net8.0\Abstraction-OOP.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Abstraction-OOP\Abstraction-OOP\obj\Debug\net8.0\Abstraction-OOP.dll
+C:\Users\Dell\source\repos\Abstraction-OOP\Abstraction-OOP\obj\Debug\net8.0\refint\Abstraction-OOP.dll
+C:\Users\Dell\source\repos\Abstraction-OOP\Abstraction-OOP\obj\Debug\net8.0\Abstraction-OOP.pdb
+C:\Users\Dell\source\repos\Abstraction-OOP\Abstraction-OOP\obj\Debug\net8.0\Abstraction-OOP.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Abstraction-OOP\Abstraction-OOP\obj\Debug\net8.0\ref\Abstraction-OOP.dll
